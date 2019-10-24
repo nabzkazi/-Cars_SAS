@@ -1,0 +1,211 @@
+laptop_name,item_number,brand,platform,processor,processor_type,processor_cores,processor_speed,ram,storage,storage_type,screen_size,resolution,graphics_chipset,graphics,os,retail_price
+VivoBook Max X541UA ,10562713,Asus,Windows,Intel Core i5-6198DU,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768,Intel HD,Intel,Windows 10 (64-bit),549.95
+HP 14-AX020CA,10481595,HP,Windows,Intel Celeron N3060,Intel,2,1.6,4,32,SSD,14,1366 x 768,Intel HD Graphics 400,Intel,Windows 10 Home,349.99
+VivoBook Max X541UV,10490599,Asus,Windows,Intel Core i7-6500U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 768,NVIDIA GeForce 920MX,NVIDIA,Windows 10 (64 bit),999.99
+HP Touchscreen Laptop,10483535,HP,Windows,Intel Core i3-6100U,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768, Intel HD Graphics 520 ,Intel,Windows 10 Home,699.99
+Acer Swift 3,10584954,Acer,Windows,Intel i5-6200U,Intel,2,2.3,8,256,SSD,14,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10,849.95
+HP Laptop,10549825,HP,Windows,AMD Quad-Core E2-7110,AMD,4,1.8,4,500,HDD,15.6,1366 x 768,AMD Radeon R2,AMD,Windows 10 Home,399.95
+Acer Aspire F Touchscreen Laptop,10509023,Acer,Windows,Intel Core i5-7200U,Intel,2,2.5,12,1024,HDD,15,1366 x 768,Intel HD Graphics 620,Intel,Windows 10 Home (64-Bit),799.99
+"Alienware 17.3"" Gaming Laptop",10395746,Dell,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1280,SSHD,17.3,1920 x 1080,NVIDIA GeForce GTX 980M,NVIDIA,Windows 10 Home High-End English,2899.99
+ASUS X-Series,10490597,Asus,Windows,AMD Quad Core A10-9600P,AMD,4,2.4,12,1024,HDD,15.6,1366 x 768,AMD Radeon R5,AMD,Windows 10 (64-bit),699.99
+HP Touchscreen Laptop,10483532,HP,Windows,Intel Pentium N3710,Intel,4,1.6,4,500,HDD,15.6,1367 x 768,Intel HD 405,Intel,Windows 10 Home,549.99
+ ENVY Touchscreen Convertible Laptop,10483527,HP,Windows,Intel Core i5-7200U 7th Generation,Intel,2,2.5,8,256,SSD,15.6,1920 x 1080,Intel HD 620,Intel,Windows 10 Home,1099.99
+Asus ZenBook 3,10491120,Asus,Windows,Intel Core i7-7500U ,Intel,2,2.7,8,512,SSD,12.5,1920 x 1080,Intel HD,Intel,Windows 10 (64 bit),1799.99
+Dell i3552,10481501,Dell,Windows, Intel Pentium Processor N3710 (2M Cache; up to 2.56 GHz) ,Intel,4,1.6,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Home,599.99
+ Spectre Touchscreen Convertible Laptop,10573688,HP,Windows,Intel Core i5-7200U 7th Generation,Intel,2,2.5,8,256,SSD,13.3,1920 x 1080,Intel HD 620,Intel,Windows 10 Home,1399.99
+Acer Aspire E,10497406,Acer,Windows,Intel Core i5-7200U,Intel,2,2.5,12,1024,HDD,17.3,1600 x 900,NVIDIA 940MX,NVIDIA,Windows 10,899.99
+ASUS Transformer Mini Convertible Laptop ,10484254,Asus,Windows,Intel Quad-Core Atom x5-Z8350,Intel,4,1.44,4,128,SSD,10.1,1280 x 800,Intel HD Graphics,Intel,Windows 10 (64-Bit),549.99
+HP Laptop,10440263,HP,Windows,Intel Celeron N3060,Intel,2,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics 400,Intel,Windows 10 Home,399.95
+Hp Touchscreen Laptop,10483531,HP,Windows,AMD A9-9410 7th Generation,AMD,2,2.9,8,1024,HDD,15.6,1366 x 768,AMD Radeon R5,AMD,Windows 10 Home,699.99
+Acer Aspire E Touchscreen Laptop,10497404,Acer,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 620,Intel,Windows 10,749.99
+Acer Aspire ES Laptop,10497400,Acer,Windows, Intel Celeron N3350 ,Intel,2,1.5,4,500,HDD,15.6,1366 x 768,Intel HD 500,Intel,Windows 10,349.99
+Lenovo Yoga 2 Touch Convertible Laptop,10516490,Lenovo,Windows,Intel Pentium N3540,Intel,4,2.16,4,508,SSHD,11.6,1366 x 768,Intel HD Graphics,Intel,Windows 10,549.99
+Acer Aspire E Laptop,10497405,Acer,Windows,Intel Core i5-7200U,Intel,2,2.3,8,256,SSD,15.6,1920 x 1080,NVIDIA 940MX,NVIDIA,Windows 10,799.99
+HP 17-X108CA Laptop ,10510688,HP,Windows,Intel Core i5-7200U,Intel,2,2.5,16,1024,HDD,17.3,1600 x 900, Intel HD Graphics 620 ,Intel,Windows 10 Home,899.99
+Asus X-Series Laptop,10491119,Asus,Windows,Intel Core i5-6198DU,Intel,2,2.3,12,1024,HDD,15.6,1366 x 768,Intel HD,Intel,Windows 10 (64 bit),849.99
+Dell Laptop,10583425,Dell,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 768,IntelR HD Graphics 620 with Shared Graphics Memory,Intel,Windows 10 Home,749.99
+HP 250 G5 Notebook ,10426047,HP,Windows,Intel Core i5 (6th Gen) i5-6200U,Intel,2,2.3,4,500,HDD,15.6,1366 x 768,HD Graphics 520,Intel,Windows 10 Pro (English),699.99
+Dell Inspiron 7000 Touchscreen Laptop,10481502,Dell,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,13.3,1920 x 1080,IntelR HD Graphics 520,Intel,Windows 10 Home,1099.99
+ASUS ZenBook Flip UX360CA Touchscreen Laptop,10520085,Asus,Windows,Intel Core m3-6Y30,Intel,2,0.9,8,256,SSD,13.3,1920 x 1080,Intel HD,Intel,Windows 10 (64-Bit),999.99
+ASUS Zenbook UX330CA Laptop,10490598,Asus,Windows,Intel Core m3-7Y30,Intel,2,1,8,256,SSD,13.3,1920 x 1080,Intel HD,Intel,Windows 10 (64-bit),899.99
+Dell i7579 Touchscreen Laptop,10481503,Dell,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,15.6,1920 x 1080,IntelR HD Graphics 620,Intel,Windows 10 Home,999.99
+"Acer Swift 7 13"" Laptop ",10537323,Acer,Windows,Intel Core i5-7Y54,Intel,2,1.2,8,256,SSD,13.3,1920 x 1080,Intel HD Graphics 615,Intel,Windows 10,1299.99
+"ASUS R-Series 15"" Laptop",10516235,Asus,Windows,AMD Quad Core A10-8700P,AMD,4,1.8,12,1024,HDD,15.6,1366 x 768,Integrated,Intel,Windows 10 (64-Bit),749.99
+"Dell Inspiron 15.6"" Gaming Laptop",10397055,Dell,Windows,Intel Core i7-6700HQ,Intel,4,2.6,8,1032,SSHD,15.6,1920 x 1080, NV GTX 960M 4GB GDDR5 ,NVIDIA,Windows 10 Home,1099.99
+"Acer Aspire E 15"" Laptop ",10393212,Acer,Windows,Intel Pentium N3700,Intel,4,1.6,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Home,599.99
+"Dell XPS13 13.3"" Ultrabook",10397054,Dell,Windows,Intel Core i5-6200U,Intel,2,2.3,8,128,SSD,13.3,1920 x 1080,Intel (R) HD Graphics 5500,Intel,Windows 10 Home,1479.99
+"ASUS X456UV 14"" Laptop ",10440731,Asus,Windows,Intel Core i7-6500U,Intel,2,2.5,12,1024,HDD,14,1366 x 768,NVIDIA GeForce 920MX,NVIDIA,Windows 10 (64 Bit),999.99
+"Dell Inspiron 3000 15.6"" Laptop",10449282,Dell,Windows,Intel Pentium N3700,Intel,4,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Home,499.99
+"ASUS ROG GL752 17.3"" Gaming Laptop",10409087,Asus,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1152,SSHD,17.3,1920 x 1080,NVIDIA GTX960M,NVIDIA,Windows 10 (64-Bit),1649.99
+"ASUS Eeebook 14"" Laptop",10449276,Asus,Windows,Intel Quad-Core N3710,Intel,4,1.6,8,1024,HDD,14,1366 x 768,Intel HD,Intel,Windows 10 (64 Bit),599.99
+"ASUS ZenBook 4K 15.6"" Laptop",10449275,Asus,Windows,Intel Core i7-6500U,Intel,2,2.5,16,1152,SSHD,15.6,3840 x 2160,Nvidia GTX 950M Graphics Card,NVIDIA,Windows 10 (64 Bit),1599.99
+"Acer Aspire E 15.6"" Laptop",10497403,Acer,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 620,Intel,Windows 10,699.99
+"Acer Aspire E 15.6"" Laptop",10409027,Acer,Windows,Intel Core i3-6100U,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 510,Intel,Windows 10 Home,629.99
+"Lenovo IdeaPad 100s 14"" Laptop",10440084,Lenovo,Windows,Intel Celeron N3050,Intel,2,1.6,2,64,eMMC,14,1366 x 768,Intel® HD Graphics,Intel,MS Windows 10,279.99
+"Dell Inspiron 3000 11.6"" Laptop",10481505,Dell,Windows,Intel Celeron Processor N3050,Intel,2,1.6,2,32,eMMC,11.6,1366 x 768,Intel HD Graphics with Shared Graphics Memory,Intel,Windows 10 Home,299.99
+"Dell Inspiron 17.3"" Laptop",10481507,Dell,Windows,Intel Core i7-7500U,Intel,2,2.7,8,1024,HDD,17.3,1920 x 1080,AMD Radeon R7 M445 Graphics with 4G GDDR5 Graphics Memory,AMD,Windows 10 Home,1199.99
+"ASUS ROG GL552 15"" Gaming Laptop ",10449280,Asus,Windows,Intel Core i7-6700HQ,Intel,4,2.6,12,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce GTX960M,NVIDIA,Windows 10 (64 Bit),1399.99
+"HP Pavilion x36013.3"" Touchscreen Convertible Laptop",10483526,HP,Windows,Intel Core i5-7200U 7th Generation,Intel,2,2.5,8,128,SSD,13.3,1920 x 1080,Intel HD 620,Intel,Windows 10 Home,899.99
+"HP 11.6"" Pavilion x360 Touchscreen Laptop",10440812,HP,Windows,Intel Pentium N3710,Intel,4,1.6,4,500,HDD,11.6,1366 x 768,Intel® HD Graphics 405,Intel,Windows 10 Home,549.99
+"Lenovo IdeaPad 300 15.6"" Laptop",10542840,Lenovo,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 520,Intel,Windows 10 Pro 64-Bit,699.99
+"ASUS ZenBook Flip UX360CA 13.3"" Touchscreen Laptop",10449274,Asus,Windows,Intel Core m3-6Y30,Intel,2,0.9,8,256,SSD,13.3,1920 x 1080,Intel HD,Intel,Windows 10 (64-Bit),949.99
+"MSI 15.6"" GL62 6QC-040CA",10448515,MSI,Windows,Intel Core i5 6300HQ ,Intel,4,2.3,8,1024,HDD,15.6,1920 x 1080,GeForce 940MX,NVIDIA,Windows 10 Hom,1199.99
+"Lenovo 80T7000HUS 15.6"" Laptop",10484332,Lenovo,Windows,Intel Celeron N3060,Intel,2,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics 400,Intel,Windows 10 Home,379.99
+"HP ENVY 17.3"" Touchscreen Laptop",10483528,HP,Windows,Intel Core i7-7500U,Intel,2,2.7,16,1024,HDD,17.3,1920 x 1080,NVIDIA GeForce 940MX,NVIDIA,Windows 10 Home,1499.99
+"Acer Swift 3 14"" Laptop",10497398,Acer,Windows,Intel Core i3-6100U,Intel,2,2.3,8,128,SSD,14,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10,749.99
+"HP Spectre 13.3"" Laptop",10483534,HP,Windows,Intel Core i7-7500U,Intel,2,2.7,8,256,SSD,13.3,1920 x 1080,Intel HD 620,Intel,Windows 10 Home,1799.99
+Lenovo ThinkPad E560 20EV002JUS Notebook,10426098,Lenovo,Windows,Intel Core i7 i7-6500U ,Intel,2,2.5,8,500,HDD,15.6,1920 x 1080,Radeon R7 M370,AMD,Windows 7 Professional Upgradable to Windows 10 Pro,1299.99
+"Dell Inspiron 15-3558 15.6"" Touchscreen Laptop",10543178,Dell,Windows,Intel Core i5-5200U,Intel,2,2.2,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10,629.99
+"HP Pavilion 15.6"" Laptop ",10483529,HP,Windows,Intel Core i5-7200U 7th Generation,Intel,2,2.5,8,256,SSD,15.6,1366 x 768,Intel HD 620,Intel,Windows 10 Home,849.99
+"HP 15.6"" Laptop",10450384,HP,Windows,6th Generation Intel Core i7-6500U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 520,Intel,Windows 10 Home,899.99
+Lenovo Laptop 80S60000US,10426122,Lenovo,Windows,Intel Celeron N3050 ,Intel,2,1.6,2,32,HDD,11.6,1366 x 768,HD Graphics,Intel,Windows 10 Pro (English),349.99
+"ASUS ROG GL502VS 15.6"" Gaming Laptop",10460927,Asus,Windows,Intel Quad-Core i7-6700HQ,Intel,4,2.6,16,1280,SSHD,15.6,1920 x 1080,NVIDIA GeForce GTX 1070,NVIDIA,Windows 10,2199.99
+"ASUS VivoBook 15.6"" Laptop",10460833,Asus,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce 940MX,NVIDIA,Windows 10 Home,849.99
+ASUS VivoBook Flip TP501 Convertible Laptop ,10531963,Asus,Windows,Intel Core i7-6500U,Intel,2,2.7,12,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce 940MX,NVIDIA,Windows 10,1349.99
+"ASUS ROG G752VS 17.3"" Gaming Laptop",10460928,Asus,Windows,Intel Quad Core i7-6820HK,Intel,4,2.7,16,1280,SSHD,17.3,1920 x 1080,NVIDIA GeForce GTX1070,NVIDIA,Windows 10 Pro,3199.99
+Lenovo YOGA 710 Touchscreen Laptop ,10550160,Lenovo,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,14,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home,1189.99
+Dell Inspiron 15 i5559-4682SLV Touchscreen Laptop,10560505,Dell,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,15.6,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10,649.99
+"Dell Alienware15.6"" Gaming Laptop",10509311,Dell,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1152,SSHD,15.6,1920 x 1080,NVIDIA GeForce GTX 1060 with 6GB GDDR5,NVIDIA,Windows 10,2499.99
+"ASUS ROG GL552VW 15.6"" Gaming Laptop ",10400435,Asus,Windows,Intel Core i7-6700HQ,Intel,4,2.36,16,1024,HDD,15.6,1920 x 1080,NVIDIA GTX960M 2GB GDDR5,NVIDIA,Windows 10 (64-bit),1348.98
+"HP Spectre 13.3"" Touch Convertible Laptop",10551207,HP,Windows,Intel Core i7-7500U,Intel,2,2.7,16,512,SSD,13.3,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home,1699.99
+"HP Pavillion 15.6"" Laptop",10436788,HP,Windows,Intel Core i5-6200U,Intel,2,2.3,16,1024,HDD,15.6,1366 x 768,Intel® HD Graphics 520,Intel,Windows 10 Home,899.99
+"Lenovo IdeaPad 310 15.6"" Laptop ",10550158,Lenovo,Windows,Intel Core i7-7500U,Intel,4,2.7,12,1024,HDD,15.6,1366 x 768,Intel HD Graphics 620,Intel,Windows 10 Home,899.98
+Lenovo ThinkPad X1 Carbon 20BS00BGUS Ultrabook ,10498127,Lenovo,Windows,Intel Core i5 i5-5300U,Intel,2,2.3,8,256,SSD,14,1920 x 1080,Intel HD Graphics 5500,Intel,Windows 7 Professional Upgradable to Windows 10 Pro,1494.99
+"Acer Swift 14"" Laptop",10550141,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,256,SSD,14,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10 Home,799.98
+"Acer Aspire R 14"" Touchscreen Convertible Laptop",10393210,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,256,SSD,14,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10 Home,899.99
+"Dell Inspiron 7000 17.3"" Touchscreen Laptop",10481508,Dell,Windows,Intel Core i7-7500U,Intel,2,2.7,12,1024,HDD,17.3,1920 x 1080,NVIDIAR GeForce 940MX 2GB GDDR5,NVIDIA,Windows 10 Home,1499.99
+"Dell Alienware17.3"" Gaming Laptop",10509312,Dell,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1152,SSHD,17.3,1920 x 1080,NVIDIA GeForce GTX 1070,NVIDIA,Windows 10,2899.99
+"Dell Inspiron 15.6"" Touchscreen Laptop",10481504,Dell,Windows,Intel Core i7-7500U,Intel,2,2.7,8,1024,HDD,15.6,1920 x 1080,AMD Radeon R7 M445 Graphics with 4G GDDR5 Graphics Memory,AMD,Windows 10 Home,1299.99
+"HP 255 G5 15.6"" Notebook",10448546,HP,Windows,AMD E-Series E2-7110,AMD,4,1.8,4,500,HDD,15.6,1366 x 768,Radeon R2 Graphics,AMD,Windows 10 Home (English),499.99
+"Acer S 13"" Laptop",10537322,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,256,SSD,13.3,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10,949.99
+"Lenovo 15.6"" Laptop",10539714,Lenovo,Windows,AMD A12-9700P,AMD,4,2.5,12,1024,HDD,15.6,1366 x 768,AMD Radeon R5,AMD,Windows 10,699.99
+"Dell XPS 13.3"" Touchscreen Convertible Laptop",10567342,Dell,Windows,Intel Core i7-7Y75,Intel,2,1.3,8,256,SSD,13.3,1920 x 1080,Intel HD Graphics 615,Intel,Windows 10 Home 64-bit,1999.99
+"ASUS ZenBook Flip UX360CA 13.3"" Touchscreen Laptop",10573744,Asus,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,13.3,1920 x 1080,Intel HD,Intel,Windows 10 (64-Bit),1099.99
+ONEBOOK NL145 eduGear,10574258,eduGear,Windows,Intel Celeron N3050,Intel,2,2.16,2,500,HDD,14,1920X1080,HD Graphics,Intel,WINDOWS 10 HOME PREMIUM,299.99
+"HP Spectre x360 13.3"" Touchscreen Laptop ",10573688,HP,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,13.3,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home,1499.99
+Lenovo ThinkPad E560 20EV002FUS,10426095,Lenovo,Windows,Core i5,Intel,2,2.3,4,500,HDD,15.6,1366 x 768,HD Graphics 520,Intel,Windows 7 Professional Upgradable to Windows 10 Pro,699.99
+"HP 15.6"" Touchscreen Laptop",10483531,HP,Windows,AMD A9-9410 7th Generation,AMD,2,2.9,8,1024,HDD,15.6,1366 x 768,AMD Radeon R5,AMD,Windows 10 Home,699.99
+"HP 15.6"" Touchscreen Convertible Laptop ",10575041,Acer,Windows,Intel Core i7-7500U,Intel,2,2.7,16,512,SSD,15.6,3840 x 2160, Intel Core i7-7500U ,Intel,Windows 10 Home,1999.99
+"Acer Swift 3 14"" Laptop",10582806,Dell,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,14,1920 x 1080,HD Graphics 620,Intel,Windows 10,899.99
+"Dell 15.6"" Gaming Laptop",10573801,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,8,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce GTX 1050 Ti with 4GB GDDR5 graphics memory,Intel,Windows 10 Home 64bit,1399.99
+"Asus ZenBook UX430 14"" Laptop",10573747,HP,Windows, Intel Core i5-7200U ,Intel,2,2.5,8,256,SSD,14, 1920 x 1080 ,Intel HD,Intel,Windows 10 (64-Bit),899.99
+"HP 17-X108CA 17.3"" Laptop",10510688,HP,Windows,Intel Core i5-7200U,Intel,2,2.5,16,1024,HDD,17.3,1600 x 900,Intel HD Graphics 620,Intel,Windows 10 Home,899.99
+"ASUS ROG Strix GL753 17.3"" Gaming Laptop",10573746,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1152,SSHD,17.3,1920 x 1080,NVIDIA GTX1050Ti,NVIDIA,Windows 10 (64-bit),1599.99
+Lenovo IdeaPad MIIX 310-10ICR 80SG001FUS,10551545,Lenovo,Windows,Intel Atom x5-Z8350 Quad-core,Intel,4,1.44,2,64,SSD,10.1,1280 x 800,HD Graphics 400,Intel,Windows 10 Home (English),329.99
+"Dell i7567 15.6"" Laptop",10567344,Dell,Windows,Intel Core i5-7300HQ,Intel,4,2.5,8,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce GTX 1050,NVIDIA,Windows 10 Home 64bit,1099.99
+"Lenovo IdeaPad 310 15.6"" Laptop ",10574225,Lenovo,Windows, AMD A10-9600P ,AMD,4,2.4,12,1024,HDD,15.6,1366 x 768,AMD Radeon R5 Graphics,AMD,Windows 10 Home,729.99
+"HP 15.6"" Laptop",10440814,HP,Windows,Intel Pentium N3710,Intel,4,1.6,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 405,Intel,Windows 10 Home,599.99
+"Dell i3552 15.6"" Laptop",10481501,Dell,Windows,Intel Pentium Processor N3710,Intel,4,1.6,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Home,599.99
+Dell Inspiron 3000 ,10449282,Dell,Windows,Intel Pentium N3700,Intel,4,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Home,499.99
+Lenovo IdeaPad 310-15ISK ,10574340,Lenovo,Windows,Intel i7-6500U,Intel,2,2.5,12,1024,HDD,15.6,1365 x 768,Intel HD Graphics 520,Intel,Windows 10 Home 64Bit,949.99
+"ASUS ROG Strix GL702 17.3"" Gaming Laptop",10573743,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1024,HDD,17.3,1920 x 1080,NVIDIA GTX1070,NVIDIA,Windows 10 (64-Bit),2199.99
+"ASUS ROG Strix GL553 15.6"" Gaming Laptop",10573742,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,12,1024,HDD,15.6,1920 x 1080,NVIDIA GTX1050,NVIDIA,Windows 10 64-Bit,1349.99
+Lenovo IdeaPad Flex 4-1580 80VE000DUS ,10561835,Lenovo,Windows,Core i5,Intel,2,2.5,8,1024,HDD,15.6,1920 x 1080,HD Graphics 620,Intel,Windows 10 Home (English),1124.95
+"Acer Aspire E 15.6"" Laptop",10497402,Acer,Windows,Intel Core i3-6100U,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768,Intel HD Graphics 505,Intel,Windows 10,599.99
+"Asus ZenBook UX430 14"" Laptop",10573748,Asus,Windows,Intel Core i5-7200U,Intel,2,2.5,16,512,SSD,14,1920 x 1080,NVIDIA GT940MX,NVIDIA,Windows 10 (64-Bit),1299.99
+"Lenovo IdeaPad 110 15.6"" Laptop",10574226,Lenovo,Windows,Intel Pentium N3710,Intel,4,1.6,4,1024,HDD,15.6,1366 x 768,Intel HD Graphics 405,Intel,Windows 10 Home 64-Bit,499.99
+"Dell XPS 13.3"" Laptop ",10567343,Dell,Windows,Intel Core i5-7200U,Intel,2,2.5,8,128,SSD,13.3,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home 64-bit,1449.99
+MSI Notebook GL72 6QC-025CA ,10448505,MSI,Windows,Intel Core i5-6300HQ,Intel,4,2.3,8,1024,HDD,17.3,1920 x 1080,GeForce 940MX,NVIDIA,Windows 10 Home,1169.99
+"Dell Inspiron 15.6"" Laptop ",10575048,Dell,Windows,Intel Core i3-5005U,Intel,2,2,6,1024,HDD,15.6,1366 x 768,Intel HD Graphics 5500,Intel,Windows 10 64-bit,479.99
+"HP 15.6"" Touchscreen Laptop ",10520077,HP,Windows,AMD A8-7410,AMD,4,2.2,8,1024,HDD,15.6,1366 x 768,AMD Radeon R5 Graphics,AMD,Windows 10 Home,499.99
+"Acer Spin 3 15.6"" Touchscreen Laptop",10497395,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,15.6,1920 x 1080,Intel HD 520,Intel,Windows 10,799.99
+MSI Notebook GP62 6QF-480CA Leopard Pro,10448525,MSI,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1024,HDD,15.6,1920 x 1080,Nvidia GeForce GTX 960M,NVIDIA,Windows 10 Home,1499.99
+"Lenovo Ideapad 15.6"" Laptop",10575047,Lenovo,Windows,Intel Core i3-6100U,Intel,2,2.3,4,1024,HDD,15.6,1366 x 768,Intel HD Graphics 520,Intel,Windows 10,498.98
+"ASUS FX53 15.6"" Gaming Laptop ",10573737,Asus,Windows,Intel Core i5-7300HQ,Intel,4,2.5,12,1024,HDD,15.6,1920 x 1080,NVIDIA GTX1050,NVIDIA,Windows 10 64-Bit,1149.99
+"ASUS ROG GL553 15.6"" Gaming Laptop",10562719,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1024,HDD,15.6,1920 x 1080,NVIDIA GTX1050,NVIDIA,Windows 10 Home (64-Bit),1338.98
+"ASUS ROG GL753 17.3"" Gaming Laptop",10562715,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1024,HDD,17.3,1920 x 1080,NVIDIA GTX1050,NVIDIA,Windows 10 Home (64-Bit),1399.99
+"HP 10.1"" Touchscreen Convertible Laptop",10551205,HP,Windows,Intel Atom x5-Z8350,Intel,2,1.44,2,32,SSD,10.1,1280 x 800,Intel HD Graphics 400,Intel,Windows 10 Home,399.98
+Lenovo ThinkPad T460 20FN002SUS,10426116,Lenovo,Windows,Intel Core i5 (6th Gen) i5-6200U ,Intel,2,2.3,4,500,HDD,14,1366 x 768,HD Graphics 520,Intel,Windows 7 Professional Upgradable to Windows 10 Pro,1499.99
+"ASUS X-Series 17.3"" Laptop",10449277,Asus,Windows,Intel Core i7-5500U,Intel,2,2.4,12,1024,HDD,17.3,1920 x 1080, NVIDIA GeForce GTX 950M ,NVIDIA,Windows 10 (64 Bit),1599.99
+"Lenovo V110 15.6"" Laptop",10574462,Lenovo,Windows,Intel Celeron 3855U,Intel,2,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics 510,Intel,Windows 10 Professional (64-bit),398.98
+"HP 250 G5 15.6"" Notebook",10460927,HP,Windows,Intel Core i3 (5th Gen) i3-5005U,Intel,2,2,4,500,HDD,15.6,1366 x 768,ntel HD Graphics 5500,Intel,Windows 10 Pro 64-bit,699.99
+"ASUS ZenBook UX330 13.3"" Laptop",10583298,Asus,Windows,Intel Core i7-7500U,Intel,2,2.7,16,512,SSD,13.3,1920 x 1080,Intel HD,Intel,Windows 10 Home,1349.99
+Edugear XR2N1C Semi-rugged,10584304,eduGear,Windows,Intel Cherry Trail 8300,Intel,4,1.8,4,64,eMMC,10.1,1200 x 800,AMD FIREPRO 6100 2 GB GDDR5,AMD,Windows 10 Home Premium,199
+"Acer Spin 3 15.6"" Touchscreen Laptop",10497394,Acer,Windows,Intel Core i3-6100U,Intel,2,2.3,6,1024,HDD,15.6,1920 x 1080,Intel HD Graphics 520,Intel,Windows 10,699.99
+"ASUS ROG GL753 17.3"" Gaming Laptop",10562716,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1024,HDD,17.3,1920 x 1080,NVIDIA GTX1050Ti,NVIDIA,Windows 10 Home (64-Bit),1599.98
+Lenovo YOGA 2 20428,10572691,Lenovo,Windows,Intel i3-4012Y,Intel,2,1.5,4,508,SSHD,11.6,1366 x 768,Intel HD 4200,Intel,Windows 10 Home,599.99
+"ASUS VivoBook X541 15.6"" Laptop",10573740,Asus,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 786,Intel HD,Intel,Windows 10 (64-Bit),749.99
+"Alienware 15.6"" Gaming Laptop-Epic Silver ",10395744,Dell,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,1280,SSHD,15.6,1920 x 1080,NVIDIA GeForce GTX 970M,NVIDIA,Windows 10 Home High-End English,2399.99
+Lenovo ThinkPad X1 Carbon 20FB005TUS ,10537710,Lenovo,Windows,Core i5,Intel,2,2.3,8,128,SSD,14,1920 x 1080,HD Graphics 520,Intel,Windows 10 Pro (English),1878.95
+"HP Stream 14"" Laptop",10481596,HP,Windows,Intel Celeron N3060,Intel,2,1.6,4,32,SSD,14,1366 x 768,Intel HD Graphics 400,Intel,Windows 10 Home,379.99
+"Acer Aspire S 13.3"" Touchscreen Laptop",10550146,Acer,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,13.3,1920 x 1080,Intel HD Graphics,Intel,Windows 10 Home,1039.99
+"Lenovo YOGA 710 15.6"" Touchscreen Laptop",10550154,Lenovo,Windows,Intel Core i5-7200U,Intel,2,2.5,8,256,SSD,15.6,1920 x 1080,Nvidia GeForce 940MX,NVIDIA,Windows 10 Home,1299.99
+"Lenovo Yoga 910 13.9"" Touch Convertible Laptop",10574563,Lenovo,Windows,Intel Core i7-7500U,Intel,2,2.7,16,1024,HDD,13.9,3840 x 2160,Intel HD Graphics 620,Intel,Windows 10 Home 64-Bit,2449.99
+"Acer Aspire R11 11.6"" Touchscreen Laptop",10450960,Acer,Windows,Intel Celeron Processor N3050,Intel,2,1.6,4,500,HDD,11.6,1366 x 768,UMA,Intel,Windows 10 Home 64-bit,449.98
+"ASUS ROG GL752VW-Q72SX-CB W10 17.3"" Gaming Notebook",10451215,Asus,Windows,Core i7,Intel,4,2.6,16,1152,SSHD,17.3,1920 x 1080,GeForce GTX 960M,NVIDIA,Windows 10 Home,1675.95
+"HP Envy x360 15.6"" Touchscreen Convertible Laptop ",10553633,HP,Windows,AMD A12-9700P APU,AMD,4,2.5,8,1152,SSHD,15.6,1920 x 1080,AMD Radeon R7,AMD,Windows 10 Home,899.99
+"ASUS Transformer 3 Pro Touchscreen 12.6"" Laptop",10542956,Asus,Windows,Intel Core i5-6200U,Intel,2,2.3,8,512,SSD,12.6,2880 x 1620,Integrated Intel HD Graphics,Intel,Windows 10 Home 64 bit,1469.98
+"ASUS VivoBook E402 14"" Laptop",10573736,Asus,Windows,Intel Quad-Core Pentium N4200,Intel,4,1.1,8,1024,HDD,14,1366 x 768,Intel HD,Intel,Windows 10 64-Bit,599.99
+"ASUS ROG GL553 15.6"" Gaming Laptop",10562717,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1024,HDD,15.6,1920 x 1080,NVIDIA GTX1050Ti,NVIDIA,Windows 10 Home (64-Bit),1498.98
+"Lenovo N22 11.6""",10448494,Lenovo,Windows,Intel Celeron N3050,Intel,2,1.6,4,64,HDD,11.6,1366 x 768,Intel HD Graphics,Intel,Windows 10 Pro 64-bit,349.99
+"HP 255 G5 15.6"" Notebook",10451114,HP,Windows,AMD A-Series A6-7310,AMD,4,2,4,500,HDD,15.6,1366 x 768,Radeon R4 Graphics,AMD,Windows 10 Pro,503.95
+"HP 17.3"" Laptop",10566981,HP,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,17.3,1600 x 900,Intel HD Graphics 620,Intel,Windows 10 Home,839.99
+"ASUS ROG Strix GL502 15.6"" Gaming Laptop",10573741,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1152,SSHD,15.6,1920 x 1080,NVIDIA GeForce GTX 1060,NVIDIA, Windows 10 (64bit) ,1899.99
+"Acer Aspire F 15.6"" Laptop",10550144,Acer,Windows,Intel Core i7-7500U,Intel,2,2.7,8,1024,HDD,15.6,1920 x 1080,NVIDIA GeForce 940MX,NVIDIA,Windows 10 Home,899.98
+"Lenovo Yoga 910 13.9"" Touch Convertible Laptop",10574564,Lenovo,Windows,Intel Core i7-7500U/,Intel,2,2.7,8,256,SSD,13.9,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home 64-Bit,1829.99
+"ASUS Zenbook UX303 13.3"" Touchscreen Laptop",10400437,Asus,Windows,Intel Core i7-6500U,Intel,2,2.5,12,512,SSD,13.3,3200 x 1800,Nvidia GT940M 2 GB,NVIDIA,Windows 10 (64-bit),1649.99
+"HP OMEN 17.3"" Gaming Laptop",10552524,HP,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,512,SSD,17.3,3840 x 2160,NVIDIA GeForce GTX 1070,NVIDIA,Windows 10 Home,2369.99
+"HP 15.6"" Touchscreen Laptop",10440817,HP,Windows,Intel Core i7-6700HQ,Intel,4,2.6,16,2048,HDD,15.6, 1920 x 1080 ,NVIDIA GeForce GTX960M Graphics,NVIDIA,Windows 10 Home,1499.99
+"Lenovo IdeaPad 510 15.6"" Laptop ",10550148,Lenovo,Windows,Intel Core i7-7500U,Intel,4,2.7,8,256,SSD,15.6,1920 x 1080,Intel HD Graphics 620,Intel,Windows 10 Home,1070.98
+Lenovo IdeaPad Miix 510-12ISK 80U1006EUS,10551558,Lenovo,Windows,Core i5,Intel,2,2.3,8,256,SSD,12.2,1920 x 1200,Intel HD Graphics 520,Intel,Windows 10 Pro 64-bit ,998.95
+"Acer V Nitro 17"" Gaming Laptop",10537324,Acer,Windows,Intel Core i7 6700HQ,Intel,4,2.56,8,1024,HDD,17.3,1920 x 1080,GTX 960,NVIDIA,Windows 10,1299.99
+Lenovo ThinkPad T460s 20F9003AUS,10537685,Lenovo,Windows,Core i7,Intel,2,2.6,8,256,SSD,14,2560x1440,HD Graphics 520,Intel,Windows 7 Professional Upgradable to Windows 10 Pro (English),1726.95
+"HP Pavilion 15.6"" Laptop",10566983,HP,Windows,AMD A12-9700P,AMD,4,2.5,12,1024,HDD,15.6,1366 x 768,AMD Radeon R7 Graphics,AMD,Windows 10 Home,789.99
+"HP OMEN 17.3"" Gaming Laptop",10552523,HP,Windows,Intel Core i7-6700HQ,Intel,4,2.6,12,1024,HDD,17.3,1920 x 1080,NVIDIA GeForce GTX 960M,NVIDIA,Windows 10 Home,1399.99
+"Acer Aspire E 14"" Laptop ",10550139,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,14,1366 x 768,Intel HD Graphics 520,Intel,Windows 10 Home,679.99
+"Acer Aspire ES 17.3"" Laptop",10550143,Acer,Windows,Intel Pentium N4200,Intel,4,1.1,4,500,HDD,17.3,1600 x 900,Intel HD Graphics 505,Intel,Windows 10 Home,498.98
+"ASUS VivoBook X541 15.6"" Laptop",10573738,Asus,Windows,Intel Core i7-7500U,Intel,2,2.7,8,1024,HDD,15.6,1366 x 786,NVIDIA GT920M,NVIDIA,Windows 10 (64-Bit),899.99
+"Acer 10.1"" Touchscreen Convertible Laptop",10459531,Acer,Windows,Intel Atom x5-Z8300,Intel,4,1.44,4,64,eMMC,10.1,1280 x 800,Intel® HD Graphics,Intel,Windows 10 Home,349.99
+"HP Pavilion 15.6"" Touchscreen Laptop",10447754,HP,Windows,Intel Core i7-6500U,Intel,2,2.5,12,2048,HDD,15.6,1366 x 768,Intel HD Graphics 520,Intel,Windows 10 Home,1199.99
+"ASUS VivoBook X541 15.6"" Touchscreen Laptop",10573739,Asus,Windows,Intel Core i5-7200U,Intel,2,2.5,8,1024,HDD,15.6,1366 x 786,Intel HD,Intel,Windows 10 (64-bit),799.99
+"HP 15.6"" Laptop",10440263,HP,Windows,Intel Celeron N3060,Intel,2,1.6,4,500,HDD,15.6,1366 x 768,Intel HD Graphics 400,Intel,Windows 10 Home,349.99
+"HP 255 G5 15.6"" Notebook",10451113,HP,Windows,AMD E-Series E2-7110 ,AMD,4,1.8,4,500,HDD,15.6,1366 x 768,Radeon R2 Graphics,AMD,Windows 10 Pro (English),460.95
+"Acer TravelMate P446-M TMP446-M-53B7 14"" LED (ComfyView) Notebook",10426076,Acer,Windows,Intel Core i5 i5-5200U,Intel,2,2.2,4,500,HDD,14,1366 x 768,HD 5500,Intel,Windows 7 Professional,899.95
+"Acer Aspire E 17.3"" Laptop ",10550137,Acer,Windows,Intel Core i5-6200U,Intel,2,2.3,8,1024,HDD,17.3,1600 x 900,NVIDIA GeForce 940MX,NVIDIA,Windows 10 Home,749.98
+Lenovo E560,10561830,Lenovo,Windows,Core i5,Intel,2,2.3,8,256,SSD,15.6,1920 x 1080,HD Graphics 520,Intel,Windows 7 Professional Upgradable to Windows 10 Pro (English),1151.95
+"ASUS ROG Strix GL502 15.6"" Gaming Laptop",10562718,Asus,Windows,Intel Core i7-7700HQ,Intel,4,2.8,16,1152,SSHD,15.6,1920 x 1080,NVIDIA GTX1060,NVIDIA,Windows 10 Home (64-Bit),1848.98
+"Acer Predator 17.3"" Gaming Laptop",10588735,Acer,Windows,Intel Core i7-7820HK,Intel,4,2.9,32,1536,SSHD,17.3,1920 x 1080,NVIDIA GeForce GTX 1080,NVIDIA,Windows 10 Home 64-bit,3499.98
+"Lenovo IdeaPad 100 15.6"" Laptop (80QQ00E6US) ",10562544,Lenovo,Windows,i5-5200U,Intel,2,2.2,4,500,HDD,15.6,1365 x 768,Intel HD Graphics 400,Intel,Windows 10 Home 64Bit,579.99
+"ASUS F555 15.6"" Laptop",10583299,Asus,Windows,Intel Core i5-6198DU,Intel,2,2.3,8,1024,HDD,15.6,1366 x 768,Intel HD,Intel,Windows 10 Home,629.98
+Apple MacBook Air,10389622,Apple,Mac OS,Intel Core i5-5th Generation,Intel,2,1.6,8,128,SSD,13.3,1440 x 900,Intel HD Graphics 6000,Intel,OS X El Capitan,1199.99
+Apple MacBook Pro,10528340,Apple,Mac OS,Intel Core i5,Intel,2,2,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 540,Intel,Mac OS Sierra,1899.99
+Apple MacBook Pro ,10360522,Apple,Mac OS,Intel Core i5-5th Generation,Intel,2,2.7,8,128,SSD,13.3,2560 x 1600,Intel Iris Graphics 6100,Intel,OS X Yosemite,1549.99
+Apple MacBook Pro Laptop w/ Touch Bar,10528334,Apple,Mac OS,Intel Core i5,Intel,2,2.9,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2299.99
+Apple MacBook Pro,10360535,Apple,Mac OS,Intel Core i7-5th Generation,Intel,4,2.2,16,256,SSD,15.4,2880 x 1800,Intel Iris Pro Graphics,Intel,OS X Yosemite,2449.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar ",10528336,Apple,Mac OS,Intel Core i7,Intel,4,2.6,16,256,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 450 2GB GDDR5,Intel,Mac OS Sierra,2999.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar",10528338,Apple,Mac OS,Intel Core i7,Intel,4,2.7,16,512,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 455 2GB GDDR5,Intel,Mac OS Sierra,3499.99
+Apple MacBook,10389626,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook Air ,10389623,Apple,Mac OS,Intel Core i5-5th Generation,Intel,2,1.6,8,128,SSD,13.3,1440 x 900,Intel HD Graphics 6000,Intel,OS X El Capitan,1199.99
+Apple MacBook Pro,10528339,Apple,Mac OS,Intel Core i5,Intel,2,2,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 540,Intel,Mac OS Sierra,1899.99
+Apple MacBook,10389628,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook Pro Laptop w/ Touch Bar,10528326,Apple,Mac OS,Intel Core i5,Intel,2,2.9,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2299.99
+"Apple MacBook Pro 13.3"" Laptop w/ Touch Bar ",10528330,Apple,Mac OS,Intel Core i5 ,Intel,2,2.9,8,512,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2549.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar",10528344,Apple,Mac OS,Intel Core i7,Intel,4,2.6,16,256,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 450 2GB GDDR5,Intel,Mac OS Sierra,2999.99
+Apple MacBook ,10389635,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook Pro Laptop With Retina Display ,10303960,Apple,Mac OS,Intel Core i5-5th Generation,Intel,2,2.7,8,128,SSD,13.3,2560 x 1600,Intel Iris Graphics 6100,Intel,OS X Yosemite,1549.99
+Apple MacBook Pro Laptop w/ Touch Bar,10528328,Apple,Mac OS,Intel Core i7,Intel,4,2.7,16,512,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 455 2GB GDDR5,Intel,Mac OS Sierra,3499.99
+Apple MacBook Pro,10528341,Apple,Mac OS,Intel Core i5 ,Intel,2,2,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 540,Intel,Mac OS Sierra,1899.99
+Apple MacBook Air,10389625,Apple,Mac OS,Intel Core i5-5th Generation,Intel,2,1.6,8,256,SSD,13.3,1440 x 900,Intel HD Graphics 6000,Intel,OS X El Capitan,1449.99
+Apple MacBook Pro Laptop With Retina Display,10360536,Apple,Mac OS,Intel Core i7-5th Generation,Intel,4,2.2,16,256,SSD,15.4,2880 x 1800,Intel Iris Pro Graphics,Intel,OS X Yosemite,2449.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar ",10528337,Apple,Mac OS,Intel Core i7,Intel,4,2.7,16,512,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 455 2GB GDDR5,Intel,Mac OS Sierra,3499.99
+Apple MacBook ,10389633,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar",10528335,Apple,Mac OS,Intel Core i7,Intel,4,2.6,16,256,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 450 2GB GDDR5,Intel,Mac OS Sierra,2999.99
+Apple MacBook,10391899,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+"Apple MacBook Pro 13.3"" Laptop w/ Touch Bar ",10528333,Apple,Mac OS,Intel Core i5 ,Intel,2,2.9,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2299.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar",10528327,Apple,Mac OS,Intel Core i7,Intel,4,2.7,16,512,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 455 2GB GDDR5,Intel,Mac OS Sierra,3499.99
+"Apple MacBook Pro 13.3"" Laptop w/ Touch Bar ",10528332,Apple,Mac OS,Intel Core i5 ,Intel,2,2.9,8,512,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2549.99
+Apple MacBook,10389637,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+"Apple MacBook Pro 15.4"" Laptop w/ Touch Bar",10528325,Apple,Mac OS,Intel Core i7,Intel,4,2.6,16,256,SSD,15.4,2880 x 1800,Intel HD Graphics 530; Radeon Pro 450 2GB GDDR5,Intel,Mac OS Sierra,2999.99
+Apple MacBook 1,10389631,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+"Apple MacBook Pro 13.3"" Laptop w/ Touch Bar",10528329,Apple,Mac OS,Intel Core i5,Intel,2,2.9,8,512,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2549.99
+Apple MacBook,10389634,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook,10391901,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+Apple MacBook ,10389629,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook Pro Laptop w/ Touch Bar,10528331,Apple,Mac OS,Intel Core i5 ,Intel,2,2.9,8,512,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2549.99
+"Apple MacBook Pro 13.3"" Laptop w/ Touch Bar ",10528343,Apple,Mac OS,Intel Core i5,Intel,2,2.9,8,256,SSD,13.3,2560 x 1600,Intel Iris Graphics 550,Intel,Mac OS Sierra,2299.99
+Apple MacBook,10389632,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+Apple MacBook,10389627,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook,10391898,Apple,Mac OS,Intel Core m3,Intel,2,1.1,8,256,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1649.99
+Apple MacBook ,10389636,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+Apple MacBook,10389630,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
+Apple MacBook,10391900,Apple,Mac OS,Intel Core m5,Intel,2,1.2,8,512,SSD,12,2304 x 1440,Intel HD Graphics 515,Intel,OS X El Capitan,1999.99
